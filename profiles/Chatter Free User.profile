@@ -23392,6 +23392,14 @@
       <tab>standard-Solution</tab>
       <visibility>Hidden</visibility>
    </tabVisibilities>
+   <tabVisibilities>
+      <tab>standard-StreamingChannel</tab>
+      <visibility>Hidden</visibility>
+   </tabVisibilities>
+   <tabVisibilities>
+      <tab>standard-UserProvisioningRequest</tab>
+      <visibility>Hidden</visibility>
+   </tabVisibilities>
    <userLicense>Chatter Free</userLicense>
    <userPermissions>
       <enabled>true</enabled>
@@ -23464,5 +23472,13 @@
    <userPermissions>
       <enabled>true</enabled>
       <name>ViewHelpLink</name>
+   </userPermissions>
+   <userPermissions>
+      <enabled>true</enabled>
+      <name>BypassMFAForUiLogins</name>
+   </userPermissions>
+   <userPermissions>
+      <enabled>true</enabled>
+      <name>ShareFilesWithNetworks</name>
    </userPermissions>
 </Profile>
