@@ -1,5 +1,4 @@
 /**
- * 12/15/2022
  * An apex page controller that exposes the site login functionality
  */
 global with sharing class CommunitiesLoginController {
