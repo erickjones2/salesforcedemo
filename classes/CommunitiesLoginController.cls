@@ -1,5 +1,6 @@
 /**
  * An apex page controller that exposes the site login functionality
+ * Some comment
  */
 global with sharing class CommunitiesLoginController {
 
