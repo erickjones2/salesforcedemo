@@ -1,4 +1,4 @@
-// 03/08/2023 Happy TrailblazerDX Day 2!  CHG1
+// 03/08/2023 Happy TrailblazerDX Day 2!  CHG2
 /**
  * An apex page controller that exposes the site login functionality
  */
