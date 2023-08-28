@@ -1,4 +1,4 @@
-// 08/28/2023 Demo CHG 1
+// 08/28/2023 Demo CHG 2
 /**
  * An apex page controller that exposes the site login functionality
  */
