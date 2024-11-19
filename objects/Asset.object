@@ -272,7 +272,7 @@
     <fields>
         <fullName>Uuid</fullName>
         <inlineHelpText>Unique string identifying the asset.</inlineHelpText>
-        <trackHistory>false</trackHistory>
+        <trackHistory>true</trackHistory>
     </fields>
     <listViews>
         <fullName>AllAssets</fullName>
